@@ -4,7 +4,7 @@
 
 ### Focado em Campanha publicitária
 
-
+Projeto utilizando apenas CSS e HTML buscando a criação de um site para a divulgação de uma aspirante à modelo.
 
 ## Website created in HTML5 and CSS3
 
